@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: var(--bg-color) url(../assets/bg.svg) no-repeat  top  center;
+    background: var(--bg-color) url(../assets/bg.svg)  no-repeat top  center;
     padding-block: 3.25rem;
 }
 header{
